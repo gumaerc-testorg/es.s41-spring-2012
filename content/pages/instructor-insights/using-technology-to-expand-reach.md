@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a6e7d634-7a40-6faa-23d0-020703ee7044
 title: Using Technology to Expand Reach
 uid: 25064ffd-df3d-0c75-eddb-15ab516ecacd

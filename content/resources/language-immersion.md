@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Teaching Italian and Cooking Together
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Language Immersion
 uid: e4d4ff07-edc0-bc58-06b4-12d0ba81c5dc

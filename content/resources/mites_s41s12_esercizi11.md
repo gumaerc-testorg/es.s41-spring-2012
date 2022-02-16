@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains the content of exercise 11.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-s41-speak-italian-with-your-mouth-full-spring-2012/ab52820017c7940e011748fdb57d4ab1_MITES_S41S12_Esercizi11.pdf
+file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/ab52820017c7940e011748fdb57d4ab1_MITES_S41S12_Esercizi11.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Language Instruction
+parent_type: CourseSection
 resourcetype: Document
 title: Lesson 11 exercises
 uid: ab528200-17c7-940e-0117-48fdb57d4ab1

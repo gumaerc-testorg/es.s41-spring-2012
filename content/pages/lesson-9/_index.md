@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 9
 uid: af3c6f3d-fbcc-b159-a0f9-93ffeb5ccf38
 ---

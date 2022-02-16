@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 10
 uid: 246b7204-f562-c6cf-d930-6a51cbf7a049
 ---

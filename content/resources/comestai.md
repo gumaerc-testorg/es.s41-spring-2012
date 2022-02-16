@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-s41-speak-italian-with-your-mouth-full-spring-2012/3e82c7d37f3d1e92d80f286979ae8007_comestai.mp3
+file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/3e82c7d37f3d1e92d80f286979ae8007_comestai.mp3
 file_type: audio/mpeg
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Language Instruction
+parent_type: CourseSection
 resourcetype: Other
 title: comestai.mp3
 uid: 3e82c7d3-7f3d-1e92-d80f-286979ae8007

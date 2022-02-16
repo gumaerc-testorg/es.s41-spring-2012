@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Recipes
 uid: aa2443c8-8a36-13c0-d31a-fda4e1664e48
 ---

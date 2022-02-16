@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a6e7d634-7a40-6faa-23d0-020703ee7044
 title: Teaching Italian and Cooking Together
 uid: 678f8764-d5c0-9e75-a398-e0971425b752

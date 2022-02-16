@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 11
 uid: 0b61d31d-8bf7-43a0-6195-1c787115299e
 ---

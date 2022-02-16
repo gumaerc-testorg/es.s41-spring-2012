@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 4
 uid: 45ae6e3b-7bcf-ebdb-0480-f2b9be5a75b7
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 13
 uid: 47f6cbac-8f7a-d956-625b-ba782046ba03
 ---

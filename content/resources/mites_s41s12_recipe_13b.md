@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding Fresh Pasta: Orecchiette.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-s41-speak-italian-with-your-mouth-full-spring-2012/3446dbf3efdd83af705ed8eb2b6bd334_MITES_S41S12_recipe_13b.pdf
+file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/3446dbf3efdd83af705ed8eb2b6bd334_MITES_S41S12_recipe_13b.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Recipes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Fresh Pasta: Orecchiette'
 uid: 3446dbf3-efdd-83af-705e-d8eb2b6bd334

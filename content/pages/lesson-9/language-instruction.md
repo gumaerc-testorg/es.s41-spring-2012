@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 9
+parent_type: CourseSection
 parent_uid: af3c6f3d-fbcc-b159-a0f9-93ffeb5ccf38
 title: Language Instruction
 uid: 425a4a45-11b8-0530-d983-4220c685da31

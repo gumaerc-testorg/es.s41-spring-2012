@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Teaching Italian and Cooking Together
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Selecting the Correct Language Level
 uid: 824f3cf5-03f3-d5f9-00cf-31520df29c52

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-s41-speak-italian-with-your-mouth-full-spring-2012/97df80f2b8cdcb189251348c044cb4a0_donne.mp3
+file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/97df80f2b8cdcb189251348c044cb4a0_donne.mp3
 file_type: audio/mpeg
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Language Instruction
+parent_type: CourseSection
 resourcetype: Other
 title: donne.mp3
 uid: 97df80f2-b8cd-cb18-9251-348c044cb4a0

@@ -2,12 +2,16 @@
 content_type: resource
 description: In this lesson, students made bruschetta. Image courtesy of Graham Gordon
   Ramsay.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-s41-speak-italian-with-your-mouth-full-spring-2012/1356ee4ce6a0ccb399723c407aeb3acb_Lesson6.jpg
+file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/1356ee4ce6a0ccb399723c407aeb3acb_Lesson6.jpg
 file_type: image/jpeg
 image_metadata:
   caption: In this lesson, students made bruschetta.
   credit: Image courtesy of Graham Gordon Ramsay.
   image-alt: Tomatoes sit on top of toasted slices of bread.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lesson 6
+parent_type: CourseSection
 resourcetype: Image
 title: Lesson6.jpg
 uid: 1356ee4c-e6a0-ccb3-9972-3c407aeb3acb

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 10
+parent_type: CourseSection
 parent_uid: 246b7204-f562-c6cf-d930-6a51cbf7a049
 title: Cooking Instruction
 uid: bdd45f22-0320-77eb-c3c5-a9b73ede701d

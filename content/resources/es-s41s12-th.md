@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructor Dr. Paola Rebusco used cooking to help her students learn
   to speak Italian. Image courtesy of Graham Gordon Ramsay. Used with permission.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-s41-speak-italian-with-your-mouth-full-spring-2012/317de1a21f8ff8599c548edb446eae6a_es-s41s12-th.jpg
+file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/317de1a21f8ff8599c548edb446eae6a_es-s41s12-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Instructor Dr. Paola Rebusco used cooking to help her students learn to
@@ -10,6 +10,8 @@ image_metadata:
   credit: Image courtesy of Graham Gordon Ramsay. Used with permission.
   image-alt: A woman poses in a kitchen with various items like olive oil, garlic
     and onions.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: es-s41s12-th.jpg
 uid: 317de1a2-1f8f-f859-9c54-8edb446eae6a

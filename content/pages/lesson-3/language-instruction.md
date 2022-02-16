@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 3
+parent_type: CourseSection
 parent_uid: 16b38273-3d02-fca8-e488-1b3e810b1572
 title: Language Instruction
 uid: e6b24301-b6fc-c670-dfc7-5ca70ae764b4

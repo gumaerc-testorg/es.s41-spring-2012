@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 5
 uid: 56e06732-1e88-3c54-5df6-9d03d3daeb8b
 ---

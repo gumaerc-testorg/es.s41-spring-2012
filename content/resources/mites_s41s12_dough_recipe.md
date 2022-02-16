@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains recipe of dough.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-s41-speak-italian-with-your-mouth-full-spring-2012/570e5ed612d8e8fac953692ac2fbc8e6_MITES_S41S12_dough_recipe.pdf
+file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/570e5ed612d8e8fac953692ac2fbc8e6_MITES_S41S12_dough_recipe.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Cooking Instruction
+parent_type: CourseSection
 resourcetype: Document
 title: La Pasta Frolla
 uid: 570e5ed6-12d8-e8fa-c953-692ac2fbc8e6

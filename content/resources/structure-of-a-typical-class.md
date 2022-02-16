@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Teaching Italian and Cooking Together
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Structure of a Typical Class
 uid: fd1bee05-d8ef-e4e7-a33e-c83bd9cbfc11

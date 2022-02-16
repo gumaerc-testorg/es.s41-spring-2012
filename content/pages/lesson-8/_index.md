@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 8
 uid: 31012ed4-66e8-2d99-ed4d-314823b03f20
 ---

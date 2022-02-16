@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 12
 uid: f0ae6f59-4c9a-13c9-9b83-75ccf8b3c6ee
 ---
