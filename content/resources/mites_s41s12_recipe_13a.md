@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Recipes
 parent_type: CourseSection
+parent_uid: aa2443c8-8a36-13c0-d31a-fda4e1664e48
 resourcetype: Document
 title: 'Fresh Pasta: Tagliatelle'
 uid: 7e9a3bed-7349-f74b-4781-f91677f8e004

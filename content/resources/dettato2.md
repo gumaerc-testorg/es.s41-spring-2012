@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Language Instruction
 parent_type: CourseSection
+parent_uid: 8c884d0f-0658-45e9-a1eb-f0f9bb923451
 resourcetype: Other
 title: dettato2.mp3
 uid: 1f84fb8c-e75f-edcf-3f88-f094026beb2d

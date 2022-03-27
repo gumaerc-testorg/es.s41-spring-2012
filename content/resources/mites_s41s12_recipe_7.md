@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Recipes
 parent_type: CourseSection
+parent_uid: aa2443c8-8a36-13c0-d31a-fda4e1664e48
 resourcetype: Document
 title: Spinach Crepe recipe
 uid: df2bb85c-aa96-f30b-3aba-8a14ff53502f

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lesson 1
 parent_type: CourseSection
+parent_uid: c4c7fba0-2305-e785-952c-8d8e6bf26fc3
 resourcetype: Other
 title: cucino.mp3
 uid: 54451fe5-f143-a70b-9d9f-b22a4b5fc8e3

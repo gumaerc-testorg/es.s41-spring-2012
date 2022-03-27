@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lesson 1: Part 2 - Cooking Instruction'
 uid: 3a31d9b3-4b34-d2c4-ada9-9ae824377d36
 video_files:

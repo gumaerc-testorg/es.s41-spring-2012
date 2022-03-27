@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Recipes
 parent_type: CourseSection
+parent_uid: aa2443c8-8a36-13c0-d31a-fda4e1664e48
 resourcetype: Document
 title: Fruit Tart Recipe
 uid: 3201c177-42e0-019f-3d42-8e536c8cac5e

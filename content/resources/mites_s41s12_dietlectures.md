@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Language Instruction
 parent_type: CourseSection
+parent_uid: 2cf16ec7-df81-9ca8-77b1-760bfca9e5b5
 resourcetype: Document
 title: Mediterranean Diet Lecture Slides
 uid: c8869aba-4da4-ed9b-6600-d63e110cc249

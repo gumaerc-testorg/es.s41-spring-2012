@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Cooking Instruction
 parent_type: CourseSection
+parent_uid: b5e1a1bf-5cf8-724b-70a8-89d7ef74058a
 resourcetype: Document
 title: Eggplant Parmesan Recipe
 uid: 602e508c-6b9b-ab09-ffd3-bdd3c0f72e27

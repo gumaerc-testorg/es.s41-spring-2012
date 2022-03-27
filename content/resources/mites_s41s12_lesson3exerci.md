@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Language Instruction
 parent_type: CourseSection
+parent_uid: e6b24301-b6fc-c670-dfc7-5ca70ae764b4
 resourcetype: Document
 title: Lesson 3 exercises
 uid: b8909e00-58fa-c355-ab26-abc13bcb93a6

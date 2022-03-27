@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lesson 5
 parent_type: CourseSection
+parent_uid: 56e06732-1e88-3c54-5df6-9d03d3daeb8b
 resourcetype: Image
 title: Lesson5.jpg
 uid: d91360fb-2bbf-5611-b989-e4654ec228fd

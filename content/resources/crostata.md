@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Cooking Instruction
 parent_type: CourseSection
+parent_uid: 7e2856c9-a1b9-cf31-0e67-6c2f2d9df120
 resourcetype: Image
 title: crostata.jpg
 uid: 70681bfa-0ce3-478f-83ea-3f52a0102e14

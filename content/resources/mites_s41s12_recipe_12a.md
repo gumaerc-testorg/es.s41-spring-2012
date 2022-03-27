@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Recipes
 parent_type: CourseSection
+parent_uid: aa2443c8-8a36-13c0-d31a-fda4e1664e48
 resourcetype: Document
 title: Crostata Recipe
 uid: a8c32855-b3f3-10d2-820e-9bc005258a0f

@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Language Instruction
 parent_type: CourseSection
+parent_uid: 425a4a45-11b8-0530-d983-4220c685da31
 resourcetype: Image
 title: bialetti.jpg
 uid: ab951a3b-4ad4-f406-f5f4-eb1738269ed3

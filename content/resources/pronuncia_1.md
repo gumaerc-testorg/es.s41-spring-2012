@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lesson 1
 parent_type: CourseSection
+parent_uid: c4c7fba0-2305-e785-952c-8d8e6bf26fc3
 resourcetype: Other
 title: pronuncia_1.mp3
 uid: 1e9fb442-0a10-8bbc-f2ba-8198b986d577

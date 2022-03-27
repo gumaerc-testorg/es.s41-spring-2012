@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Recipes
 parent_type: CourseSection
+parent_uid: aa2443c8-8a36-13c0-d31a-fda4e1664e48
 resourcetype: Document
 title: Tiramisu recipe
 uid: d8dda8af-f5ec-4387-610b-a78bbe25886f

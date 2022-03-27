@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Language Instruction
 parent_type: CourseSection
+parent_uid: 425a4a45-11b8-0530-d983-4220c685da31
 resourcetype: Document
 title: Lesson 9 Exercises
 uid: 9a75c2c0-8b3c-bd49-9460-516c2a08e58c

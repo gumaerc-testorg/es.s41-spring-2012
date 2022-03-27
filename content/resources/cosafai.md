@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Language Instruction
 parent_type: CourseSection
+parent_uid: 4fc5f444-b814-d88e-9512-7456337f2612
 resourcetype: Other
 title: cosafai.mp3
 uid: 308c242e-dc90-d602-92e7-8307be56f025

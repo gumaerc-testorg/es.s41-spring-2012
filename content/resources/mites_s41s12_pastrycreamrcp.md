@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Cooking Instruction
 parent_type: CourseSection
+parent_uid: 7e2856c9-a1b9-cf31-0e67-6c2f2d9df120
 resourcetype: Document
 title: Pastry Cream Recipe
 uid: 26b307a4-c8fc-9d3e-0aae-882b2c385175

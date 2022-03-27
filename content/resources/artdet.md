@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Language Instruction
 parent_type: CourseSection
+parent_uid: 8c884d0f-0658-45e9-a1eb-f0f9bb923451
 resourcetype: Other
 title: artdet.mp3
 uid: 476ce7ca-e5ff-c67b-7593-6e67746d5466

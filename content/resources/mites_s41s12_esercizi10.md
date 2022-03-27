@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Language Instruction
 parent_type: CourseSection
+parent_uid: e6174dd5-9e16-4317-15de-51979a8e729c
 resourcetype: Document
 title: MITES_S41S12_Esercizi10.pdf
 uid: 67f74482-a2fa-b954-ec1e-a2475305d512

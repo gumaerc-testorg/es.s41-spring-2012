@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Cooking Instruction
 parent_type: CourseSection
+parent_uid: b5e1a1bf-5cf8-724b-70a8-89d7ef74058a
 resourcetype: Document
 title: Beef Stew Recipe
 uid: 88c30dd6-a966-e002-2603-fb80d3ab1986

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Cooking Instruction
 parent_type: CourseSection
+parent_uid: d880b0db-d692-09ad-fb52-a417a10a2fe6
 resourcetype: Other
 title: canzone.mp3
 uid: 44f646f1-5c6c-261b-5e65-217eeac99409

@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Using Technology to Expand Reach
 parent_type: CourseSection
+parent_uid: 25064ffd-df3d-0c75-eddb-15ab516ecacd
 resourcetype: Image
 title: Screenshot.jpg
 uid: eefaab45-dadf-d5f9-b12a-4cb8f36e4b66

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Cooking Instruction
 parent_type: CourseSection
+parent_uid: 037bd9c3-765a-1418-15f2-c7634ae47ba8
 resourcetype: Other
 title: ingredienti2.mp3
 uid: e1d0c900-c718-ec52-7386-df8ceb4a1315

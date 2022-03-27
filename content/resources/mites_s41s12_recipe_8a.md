@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Recipes
 parent_type: CourseSection
+parent_uid: aa2443c8-8a36-13c0-d31a-fda4e1664e48
 resourcetype: Document
 title: Potato and Fennel in Milk Recipe
 uid: ecaf2b07-5d54-c05d-4506-0b250ebfd8d8

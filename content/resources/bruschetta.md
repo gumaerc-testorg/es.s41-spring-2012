@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Cooking Instruction
 parent_type: CourseSection
+parent_uid: b5e1a1bf-5cf8-724b-70a8-89d7ef74058a
 resourcetype: Other
 title: bruschetta.mp3
 uid: 654ca452-e91e-7c73-1901-0bad8936b0e6

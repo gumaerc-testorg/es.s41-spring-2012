@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lesson 12
 parent_type: CourseSection
+parent_uid: f0ae6f59-4c9a-13c9-9b83-75ccf8b3c6ee
 resourcetype: Image
 title: Lesson12.jpg
 uid: 998c3315-e64c-b0a6-6ad4-4ef1a53f853b

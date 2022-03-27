@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Language Instruction
 parent_type: CourseSection
+parent_uid: b99e329e-5a82-aaa7-e124-7955370dab77
 resourcetype: Document
 title: Lesson 5 Assignments
 uid: ad81fad5-139f-72e2-9ffe-bbdbedfb19e9

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Language Instruction
 parent_type: CourseSection
+parent_uid: e6b24301-b6fc-c670-dfc7-5ca70ae764b4
 resourcetype: Document
 title: Conjugation of avere, mangiare, ridere, dormire
 uid: b7a7545f-a715-0807-99e5-b191a6440259

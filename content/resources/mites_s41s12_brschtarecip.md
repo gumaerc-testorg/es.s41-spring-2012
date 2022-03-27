@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Cooking Instruction
 parent_type: CourseSection
+parent_uid: b5e1a1bf-5cf8-724b-70a8-89d7ef74058a
 resourcetype: Document
 title: Bruschetta Recipe
 uid: 55660d5d-c421-a90a-5851-7eb16808d833

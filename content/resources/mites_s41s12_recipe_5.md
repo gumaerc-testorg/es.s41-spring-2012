@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Recipes
 parent_type: CourseSection
+parent_uid: aa2443c8-8a36-13c0-d31a-fda4e1664e48
 resourcetype: Document
 title: Meatball and Vegetarian Meatball recipes
 uid: 97dc0dc2-5eff-be4e-cbcc-bca9c1fba173

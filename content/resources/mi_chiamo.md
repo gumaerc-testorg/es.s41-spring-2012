@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lesson 1
 parent_type: CourseSection
+parent_uid: c4c7fba0-2305-e785-952c-8d8e6bf26fc3
 resourcetype: Other
 title: mi_chiamo.mp3
 uid: f8a45ada-7f7a-ecf2-fbdf-6d3e601dccaa
