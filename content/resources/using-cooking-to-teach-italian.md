@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Teaching Italian and Cooking Together
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** Paola Rebusco discusses the benefit of combining cooking instruction with language learning.
 
 **Instructor:** Paola Resbusco
+

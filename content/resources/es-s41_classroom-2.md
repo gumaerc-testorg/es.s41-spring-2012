@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/e36b5812ddd99f8fbc1b73e567d69113_ES-S41_classroom-2.png
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/e36b5812ddd99f8fbc1b73e567d69113_ES-S41_classroom-2.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection

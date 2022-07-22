@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** Guest lecturer, Anna Jasonides, talks to the class about the benefits of the Mediterranean diet.
 
 **Instructors:** Anna Jasonides, ES.S41 students
+

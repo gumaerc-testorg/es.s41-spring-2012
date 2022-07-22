@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Learning From Challenges
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** Paola Rebusco discusses the difficulties in fitting activities into a two hour block and the students' energy during the class.
 
 **Instructor:** Paola Resbusco
+

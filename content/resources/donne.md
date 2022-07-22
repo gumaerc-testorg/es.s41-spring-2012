@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/97df80f2b8cdcb189251348c044cb4a0_donne.mp3
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/97df80f2b8cdcb189251348c044cb4a0_donne.mp3
 file_type: audio/mpeg
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Language Instruction
 parent_type: CourseSection

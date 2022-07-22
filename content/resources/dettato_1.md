@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/9a0ae51da4c4bf4c9210a4673c653112_dettato_1.mp3
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/9a0ae51da4c4bf4c9210a4673c653112_dettato_1.mp3
 file_type: audio/mpeg
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lesson 1
 parent_type: CourseSection

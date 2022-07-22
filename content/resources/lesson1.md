@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "A colorful selection of vegetables being saut\xE9ed in a pan. "
-file: /media/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/b0b26ac51e9af71e5ad4feb8217b9a9c_Lesson1.jpg
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/b0b26ac51e9af71e5ad4feb8217b9a9c_Lesson1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "A colorful selection of vegetables being saut\xE9ed in a pan."
@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A frying pan containing peppers and zucchini sits on the burner of a
     stove.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lesson 1
 parent_type: CourseSection
@@ -17,3 +18,4 @@ resourcetype: Image
 title: Lesson1.jpg
 uid: b0b26ac5-1e9a-f71e-5ad4-feb8217b9a9c
 ---
+A colorful selection of vegetables being sautéed in a pan. 
