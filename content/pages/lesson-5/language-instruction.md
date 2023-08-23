@@ -1,22 +1,25 @@
 ---
 content_type: page
+description: This section provides the language instruction component of a lesson
+  on how to talk about meals structure and daily life in Italian. La Festa della Donna
+  is also covered.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 5
 parent_type: CourseSection
 parent_uid: 56e06732-1e88-3c54-5df6-9d03d3daeb8b
-title: Language Instruction
+title: 'Lesson 5: Language Instruction'
 uid: b99e329e-5a82-aaa7-e124-7955370dab77
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-5) | [Next]({{< baseurl >}}/pages/lesson-5/cooking-instruction) »
+« {{% resource_link 56e06732-1e88-3c54-5df6-9d03d3daeb8b "Previous" %}} | {{% resource_link 02fc3e36-204a-4a74-5081-29cf8abdff3f "Next" %}} »
 
 _Lezione Numero Cinque_/Lesson Number Five
 ------------------------------------------
 
 Watch a video:
 
-[Lesson 5, Part 1: Language Instruction]({{< baseurl >}}/resources/lesson-5-part-1-language-instruction)
+{{% resource_link a611bfd0-4251-65d0-5e73-fb4301cd6e9a "Lesson 5, Part 1: Language Instruction" %}}
 
 _La Festa Della Donna_/International Women’s Day
 ------------------------------------------------
@@ -43,7 +46,7 @@ _Esercizio_/Exercise
 
 _Leggi ascolta e ripeti._/Read, listen, and repeat.
 
-[Leggi ascolta e ripeti (MP3 - 4.7MB)]({{< baseurl >}}/resources/donne)
+{{% resource_link 97df80f2-b8cd-cb18-9251-348c044cb4a0 "Leggi ascolta e ripeti (MP3 - 4.7MB)" %}}
 
 _Text to use for exercise:_
 
@@ -304,7 +307,7 @@ Listen to the dialogue (between me and me with my voice transformed in Garage ba
 
 _La giornata tipica_
 
-[A typical day (MP3 - 6.5MB)]({{< baseurl >}}/resources/routine)
+{{% resource_link 7f161b8f-201d-8b0b-c3ff-58774b26d3e0 "A typical day (MP3 - 6.5MB)" %}}
 
 Food in Italian Culture
 -----------------------
@@ -323,7 +326,7 @@ This is a list of the main meals:
 
 _Ascolta e ripeti._/Listen and repeat.
 
-[Ascolta e ripeti (MP3 - 1MB)]({{< baseurl >}}/resources/meals)
+{{% resource_link 768d93fe-3d45-275c-94ad-ec8c6467a521 "Ascolta e ripeti (MP3 - 1MB)" %}}
 
 If you are invited for a meal by an Italian family, beware. Leave space in your belly for all the courses! _Il pranzo e la cena tradizionali hanno_ many courses (_molte portate_), but nowadays many families prepare _un piatto unico per pasto_/one single dish per meal.
 
@@ -337,12 +340,12 @@ The traditional meal is composed of:
 
 _Ascolta e ripeti_./Listen and repeat.
 
-[Ascolta e ripeti (MP3 )]({{< baseurl >}}/resources/meal_structure)
+{{% resource_link e5f176ef-b653-d9d9-b1df-a960189504e9 "Ascolta e ripeti (MP3 )" %}}
 
 _Compiti_/Assignments
 ---------------------
 
-[Lesson 5 Assignment (PDF)]({{< baseurl >}}/resources/mites_s41s12_compiti_5)
+{{% resource_link ad81fad5-139f-72e2-9ffe-bbdbedfb19e9 "Lesson 5 Assignment (PDF)" %}}
 
 _Esercizi_/Exercises
 --------------------
@@ -350,4 +353,4 @@ _Esercizi_/Exercises
 *   Pick an activity from the [Languages Online-Italian website](http://www.education.vic.gov.au/languagesonline/italian/italian.htm). Solve it and print it out.
 *   Record yourself talking about your _giornata tipica_.
 
-« [Previous]({{< baseurl >}}/pages/lesson-5) | [Next]({{< baseurl >}}/pages/lesson-5/cooking-instruction) »
+« {{% resource_link 56e06732-1e88-3c54-5df6-9d03d3daeb8b "Previous" %}} | {{% resource_link 02fc3e36-204a-4a74-5081-29cf8abdff3f "Next" %}} »

@@ -1,29 +1,31 @@
 ---
 content_type: page
+description: This section provides the language instruction component of a lesson
+  on sking and giving information in Italian.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 4
 parent_type: CourseSection
 parent_uid: 45ae6e3b-7bcf-ebdb-0480-f2b9be5a75b7
-title: Language Instruction
+title: 'Lesson 4: Language Instruction'
 uid: 794cab65-2042-4adc-b670-29cb08353418
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-4) | [Next]({{< baseurl >}}/pages/lesson-4/cooking-instruction) »
+« {{% resource_link 45ae6e3b-7bcf-ebdb-0480-f2b9be5a75b7 "Previous" %}} | {{% resource_link 75c33a4f-4256-7111-8501-8efa0dbe55ea "Next" %}} »
 
 _Lezione Numero Quattro_/Lesson Number Four
 -------------------------------------------
 
 Watch a video:
 
-[Lecture 4, Part 1: Language Instruction]({{< baseurl >}}/resources/lesson-4-part-1-language-instruction)  
+{{% resource_link 617acfd8-c62c-0ca7-2647-c5fdb71cb4e6 "Lecture 4, Part 1: Language Instruction" %}}  
 
 Listening Exercise
 ------------------
 
 _Leggi, ascolta e ripeti._/ Read, listen, and repeat.
 
-[Leggi, ascolta e ripeti (MP3-11.5MB)]({{< baseurl >}}/resources/domande)
+{{% resource_link 299d6fe7-f5ad-eb2c-c7b5-d77f2afe64c2 "Leggi, ascolta e ripeti (MP3-11.5MB)" %}}
 
  _Chi & Di Chi_/Who, Whom, and Whose
 ------------------------------------
@@ -584,15 +586,15 @@ I study too much.
 Compiti/Assignments
 -------------------
 
-[Lesson 4 Assignments (PDF)]({{< baseurl >}}/resources/mites_s41s12_compiti_4)
+{{% resource_link 85f41279-5336-eae2-99c1-bdf4bad5561b "Lesson 4 Assignments (PDF)" %}}
 
 Esercizi/Exercises
 ------------------
 
-[Lesson 4 exercises (PDF)]({{< baseurl >}}/resources/mites_s41s12_lesson4exerci)
+{{% resource_link d7cc05f8-3432-73c0-58f9-1c4c9b36c398 "Lesson 4 exercises (PDF)" %}}
 
 Use this audio file to complete the first task of the exercises:
 
-[Lesson 4 audio exercises (MP3 - 4.3MB)]({{< baseurl >}}/resources/ingredienti4)
+{{% resource_link 5f8fb78f-d36b-1ab3-b105-e34d386a3967 "Lesson 4 audio exercises (MP3 - 4.3MB)" %}}
 
-« [Previous]({{< baseurl >}}/pages/lesson-4) | [Next]({{< baseurl >}}/pages/lesson-4/cooking-instruction) »
+« {{% resource_link 45ae6e3b-7bcf-ebdb-0480-f2b9be5a75b7 "Previous" %}} | {{% resource_link 75c33a4f-4256-7111-8501-8efa0dbe55ea "Next" %}} »

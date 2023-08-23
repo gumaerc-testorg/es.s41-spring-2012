@@ -1,21 +1,22 @@
 ---
 content_type: page
+description: This section provides a lesson on preparing vegetarian gnocchi al pomodoro.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 4
 parent_type: CourseSection
 parent_uid: 45ae6e3b-7bcf-ebdb-0480-f2b9be5a75b7
-title: 'Cooking Instruction '
+title: 'Lesson 4:  Cooking Instruction'
 uid: 75c33a4f-4256-7111-8501-8efa0dbe55ea
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-4/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-5) »
+« {{% resource_link 794cab65-2042-4adc-b670-29cb08353418 "Previous" %}} | {{% resource_link 56e06732-1e88-3c54-5df6-9d03d3daeb8b "Next" %}} »
 
 Watch two videos:
 
-[Lesson 4, Part 2: Ingredients and Vocabulary]({{< baseurl >}}/resources/lesson-4-part-2-ingredients-and-vocabulary)  
+{{% resource_link 8b40347d-b472-0dde-1e1b-d6a487436c4e "Lesson 4, Part 2: Ingredients and Vocabulary" %}}  
 
-[Lesson 4, Part 3: Cooking Instruction]({{< baseurl >}}/resources/lesson-4-part-3-cooking-instruction)  
+{{% resource_link 82cbbe7b-ccdd-9b90-b78a-9592729d9e76 "Lesson 4, Part 3: Cooking Instruction" %}}  
 
 _Gli Gnocchi di Patate_/Potato Gnocchi
 --------------------------------------
@@ -48,4 +49,4 @@ _Gli gnocchi_ (m, plur). Grammar review question: what determinative article wou
 
 Note: If you made too many _gnocchi_, you can freeze them before cooking them. Freeze the _gnocchi_ in a Ziploc: place them flat to freeze, so that they do not stick all together. To cook them, throw the frozen gnocchi directly into the boiling salted water without thawing or they will stick together. Their cooking time will be slightly longer than unfrozen.
 
-« [Previous]({{< baseurl >}}/pages/lesson-4/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-5) »
+« {{% resource_link 794cab65-2042-4adc-b670-29cb08353418 "Previous" %}} | {{% resource_link 56e06732-1e88-3c54-5df6-9d03d3daeb8b "Next" %}} »

@@ -1,22 +1,25 @@
 ---
 content_type: page
+description: This section provides the language instruction component of a lesson
+  on greetings, introductions, numbers, and cooking, and cooking instruction on preparing
+  pasta.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 1
 parent_type: CourseSection
 parent_uid: c4c7fba0-2305-e785-952c-8d8e6bf26fc3
-title: Language Instruction
+title: 'Lesson 1: Language Instruction'
 uid: b59ef236-b43e-fef0-05df-4148e5fd08ca
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-1) | [Next]({{< baseurl >}}/pages/lesson-1/cooking-instruction) »
+« {{% resource_link c4c7fba0-2305-e785-952c-8d8e6bf26fc3 "Previous" %}} | {{% resource_link ab595ab1-7741-4c05-3501-5f5f2f6b29fc "Next" %}} »
 
 _Lezione Numero Uno_/Lesson Number One
 --------------------------------------
 
 Watch a video:
 
-[Lesson 1, Part 1: Langauge Instruction]({{< baseurl >}}/resources/lesson-1-part-1-language-instruction)
+{{% resource_link 8f0233a1-7494-c847-96fb-e99689604b78 "Lesson 1, Part 1: Langauge Instruction" %}}
 
 ### Short Dialogue
 
@@ -80,7 +83,7 @@ Notice that in Italian in most contexts you can omit the subject to a sentence (
 
 Listen to this short dialogue:
 
-[Mi Chiamo (MP3)]({{< baseurl >}}/resources/mi_chiamo)
+{{% resource_link f8a45ada-7f7a-ecf2-fbdf-6d3e601dccaa "Mi Chiamo (MP3)" %}}
 
 _Le Vocali_/Vowels
 ------------------
@@ -172,7 +175,7 @@ La nonna (the grandma)
 
 Listen to the vowels, accents, and consonants:
 
-[Vocali (MP3 - 1.7MB)]({{< baseurl >}}/resources/vocali)
+{{% resource_link 5a51687e-05c0-820c-d260-bca18be33d68 "Vocali (MP3 - 1.7MB)" %}}
 
 The Verb _Cucinare_/To Cook
 ---------------------------
@@ -190,19 +193,19 @@ INDICATIVO PRESENTE (I cook, you cook, s/he cooks...)
 
 Listen to the conjugation of cucinare:
 
-[Cucinare (MP3)]({{< baseurl >}}/resources/cucino)
+{{% resource_link 54451fe5-f143-a70b-9d9f-b22a4b5fc8e3 "Cucinare (MP3)" %}}
 
 _Compiti_/Assignments
 ---------------------
 
-[Lesson 1 Assignment (PDF)]({{< baseurl >}}/resources/mites_s41s12_compiti_1)
+{{% resource_link dfacc78b-54ce-1787-6c54-d421c46fc5f6 "Lesson 1 Assignment (PDF)" %}}
 
 Use this audio file for task #3 in the assignments.
 
-[Pronuncia (MP3 - 3.7MB)]({{< baseurl >}}/resources/pronuncia_1)
+{{% resource_link 1e9fb442-0a10-8bbc-f2ba-8198b986d577 "Pronuncia (MP3 - 3.7MB)" %}}
 
 Use this audio file for task #4 in the assignments.
 
-[Dettato (MP3 - 1.7MB)]({{< baseurl >}}/resources/dettato_1)
+{{% resource_link 9a0ae51d-a4c4-bf4c-9210-a4673c653112 "Dettato (MP3 - 1.7MB)" %}}
 
-« [Previous]({{< baseurl >}}/pages/lesson-1) | [Next]({{< baseurl >}}/pages/lesson-1/cooking-instruction) »
+« {{% resource_link c4c7fba0-2305-e785-952c-8d8e6bf26fc3 "Previous" %}} | {{% resource_link ab595ab1-7741-4c05-3501-5f5f2f6b29fc "Next" %}} »
