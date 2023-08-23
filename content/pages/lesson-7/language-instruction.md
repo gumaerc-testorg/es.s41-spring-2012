@@ -1,22 +1,24 @@
 ---
 content_type: page
+description: This section provides the language instruction component of a lesson
+  on how to talk about professions and hobbies.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 7
 parent_type: CourseSection
 parent_uid: 5c721348-1ad2-e19c-b11f-3f348f64d7e5
-title: Language Instruction
+title: 'Lesson 7: Language Instruction'
 uid: 4fc5f444-b814-d88e-9512-7456337f2612
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-7) | [Next]({{< baseurl >}}/pages/lesson-7/cooking-instruction) »
+« {{% resource_link 5c721348-1ad2-e19c-b11f-3f348f64d7e5 "Previous" %}} | {{% resource_link d880b0db-d692-09ad-fb52-a417a10a2fe6 "Next" %}} »
 
 _Lezione Numero Sette_/Lesson Number Seven
 ------------------------------------------
 
 Watch a video:
 
-[Lesson 7, Part 1:  Opening Lecture]({{< baseurl >}}/resources/lesson-7-part-1-opening-lecture)
+{{% resource_link 3d81bb6c-7eb8-9075-d215-b75cfaf26842 "Lesson 7, Part 1:  Opening Lecture" %}}
 
 Introduction
 ------------
@@ -32,7 +34,7 @@ In the following dialogue, we review how to introduce yourself and talk about yo
 
 _Ascolta e ripeti._/Listen and repeat. Then _leggi, ascolta e ripeti._/read, listen, and repeat, again.
 
-[What Do You Do? (MP3 - 6.3MB)]({{< baseurl >}}/resources/cosafai)
+{{% resource_link 308c242e-dc90-d602-92e7-8307be56f025 "What Do You Do? (MP3 - 6.3MB)" %}}
 
 ### Dialogue
 
@@ -128,4 +130,4 @@ _tutti_ = all
 
 _insieme_ = together
 
-« [Previous]({{< baseurl >}}/pages/lesson-7) | [Next]({{< baseurl >}}/pages/lesson-7/cooking-instruction) »
+« {{% resource_link 5c721348-1ad2-e19c-b11f-3f348f64d7e5 "Previous" %}} | {{% resource_link d880b0db-d692-09ad-fb52-a417a10a2fe6 "Next" %}} »

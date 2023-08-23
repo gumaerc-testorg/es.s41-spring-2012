@@ -1,20 +1,21 @@
 ---
 content_type: page
+description: This section provides a lesson on preparing biscotti.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 11
 parent_type: CourseSection
 parent_uid: 0b61d31d-8bf7-43a0-6195-1c787115299e
-title: Cooking Instruction
+title: 'Lesson 11: Cooking Instruction'
 uid: 973cc08c-3ec5-82f3-ac63-c430ca1e25a5
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-11/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-12) »
+« {{% resource_link b1809dd7-eeb0-40ee-8bdd-e4bb16b7f832 "Previous" %}} | {{% resource_link f0ae6f59-4c9a-13c9-9b83-75ccf8b3c6ee "Next" %}} »
 
 Watch two videos:
 
-*   [Lesson 11, Part 2: Ingredients and Cooking Instruction]({{< baseurl >}}/resources/lesson-11-part-2-ingredients-and-cooking-instruction)
-*   [Lesson 11, Part 3: Closing Lecture]({{< baseurl >}}/resources/lesson-11-part-3-closing-lecture)
+*   {{% resource_link d8a60020-2237-2cce-b302-6a6fbdf8f911 "Lesson 11, Part 2: Ingredients and Cooking Instruction" %}}
+*   {{% resource_link 40e44475-138f-a6ec-661d-2de336e890cc "Lesson 11, Part 3: Closing Lecture" %}}
 
 _I Cantucci_/Biscotti
 ---------------------
@@ -58,4 +59,4 @@ We usually eat them dipped in a glass of _Vin Santo_ (literally "holy wine", a s
 
 Note: once the _cantucci_ are cooled, you can place them in tin cans and keep them for a long time. You can also freeze them.
 
-« [Previous]({{< baseurl >}}/pages/lesson-11/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-12) »
+« {{% resource_link b1809dd7-eeb0-40ee-8bdd-e4bb16b7f832 "Previous" %}} | {{% resource_link f0ae6f59-4c9a-13c9-9b83-75ccf8b3c6ee "Next" %}} »

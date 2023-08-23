@@ -1,25 +1,25 @@
 ---
 content_type: page
+description: This section provides the language instruction component of a lesson
+  on how to make a phone reservation in Italian.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 11
 parent_type: CourseSection
 parent_uid: 0b61d31d-8bf7-43a0-6195-1c787115299e
-title: Language Instruction
+title: 'Lesson 11: Language Instruction'
 uid: b1809dd7-eeb0-40ee-8bdd-e4bb16b7f832
 ---
+« {{% resource_link 0b61d31d-8bf7-43a0-6195-1c787115299e "Previous" %}} | {{% resource_link 973cc08c-3ec5-82f3-ac63-c430ca1e25a5 "Next" %}} »
 
-« [Previous]({{< baseurl >}}/pages/lesson-11) | [Next]({{< baseurl >}}/pages/lesson-11/cooking-instruction) »
-
-Lesson Numero Undici/Lesson Number 11
--------------------------------------
+## Lesson Numero Undici/Lesson Number 11
 
 Watch a video:
 
-*   [Lesson 11, Part 1: Opening Lecture]({{< baseurl >}}/resources/lesson-11-part-1-opening-lecture)
+- {{% resource_link d5d7da40-527b-0656-dfa6-e191e0c0cf89 "Lesson 11, Part 1: Opening Lecture" %}}
 
-Making a Reservation
---------------------
+## Making a Reservation
 
 _La scorsa settimana_/last week, (you can also say _la settimana passata_), while our _cantucci_ were baking and bis-baking ;-), we learned how to make a reservation at a restaurant.
 
@@ -59,17 +59,17 @@ Ho una prenotazione per quindici a nome Veneziani.
 
 **Vocabulary and Grammar**
 
-_Pronto_ = ready  This is what we usually say when we pick up the phone/_i__l telefono_.
+_Pronto_ = ready This is what we usually say when we pick up the phone/_il telefono_.
 
-_Vorrei_ = _(I) would like to ... (_present conditional, 1st pers. sing. of the irregular verb _volere_)
+_Vorrei_ = _(I) would like to … (present conditional, 1st pers. sing. of the irregular verb volere_)
 
 _Prenotare_ = to reserve
 
 _Tavolo_ = _table_
 
-_A/per che ora_ \= _at/for what time_
+_A/per che ora_ = _at/for what time_
 
-_Otto e mezza_ = _eight and a half _ You can also say _alle venti e trenta_ (20:30), but since you already asked for a table for the evening_,_ _otto e mezza_ will be clear enough.
+_Otto e mezza_ = _eight and a half _ You can also say _alle venti e trenta_ (20:30), but since you already asked for a table for the evening, _otto e mezza_ will be clear enough.
 
 _Vorremmo_ = (we) would like to (present conditional, 1st pers. plur. of the irr. verb _volere_)
 
@@ -77,7 +77,7 @@ _Sederci_ = _sedere+ ci_ (us) = sit ourselves, meaning sit
 
 _Fuori_ = outside
 
-_Dentro_ \= _inside_
+_Dentro_ = _inside_
 
 _Posto_ = place, locality. In this context, it means seat.
 
@@ -91,17 +91,15 @@ _Vista_ = view, it also means eyesight
 
 _Allora_ = then
 
-_A domani_ \= to tomorrow→ see you tomorrow
+_A domani_ = to tomorrow→ see you tomorrow
 
-Esercizi/Exercises
-------------------
+## Esercizi/Exercises
 
-[Lesson 11 Exercises (PDF)]({{< baseurl >}}/resources/mites_s41s12_esercizi11)
+{{% resource_link ab528200-17c7-940e-0117-48fdb57d4ab1 "Lesson 11 Exercises (PDF)" %}}
 
-Compiti/Assignments
--------------------
+## Compiti/Assignments
 
-*   Solve the exercises listed above.
-*   Write a couple of lines (in English, if you want ;)) about what you liked and what you hated about the seminar, e.g. class structure, contents, style which homework was useful, what was useless, if you could have removed a dish from our menu, what would it be? Any feedback is appreciated! Grazie!
+- Solve the exercises listed above.
+- Write a couple of lines (in English, if you want ;)) about what you liked and what you hated about the seminar, e.g. class structure, contents, style which homework was useful, what was useless, if you could have removed a dish from our menu, what would it be? Any feedback is appreciated! Grazie!
 
-« [Previous]({{< baseurl >}}/pages/lesson-11) | [Next]({{< baseurl >}}/pages/lesson-11/cooking-instruction) »
+« {{% resource_link 0b61d31d-8bf7-43a0-6195-1c787115299e "Previous" %}} | {{% resource_link 973cc08c-3ec5-82f3-ac63-c430ca1e25a5 "Next" %}} »
