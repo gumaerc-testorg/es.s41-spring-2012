@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the list of recipes for each lesson of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Recipes
@@ -26,9 +27,9 @@ RECIPE
 {{< tdopen >}}
 
 
-[Pasta all'amatriciana]({{< baseurl >}}/pages/lesson-1/cooking-instruction#1)
+{{% resource_link ab595ab1-7741-4c05-3501-5f5f2f6b29fc "Pasta all'amatriciana" "#1" %}}
 
-[Pasta with broccoli]({{< baseurl >}}/pages/lesson-1/cooking-instruction#2)
+{{% resource_link ab595ab1-7741-4c05-3501-5f5f2f6b29fc "Pasta with broccoli" "#2" %}}
 
 
 {{< tdclose >}}
@@ -39,7 +40,7 @@ RECIPE
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Risotto]({{< baseurl >}}/pages/lesson-2/cooking-instruction) 
+{{% resource_link 037bd9c3-765a-1418-15f2-c7634ae47ba8 "Risotto" %}} 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +49,7 @@ RECIPE
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Pizza]({{< baseurl >}}/pages/lesson-3/cooking-instruction)
+{{% resource_link 3442d74c-150c-b838-1b8a-9d5f2633fa35 "Pizza" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ RECIPE
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Gnocchi (potato dumplings) with tomato sauce]({{< baseurl >}}/pages/lesson-4/cooking-instruction)
+{{% resource_link 75c33a4f-4256-7111-8501-8efa0dbe55ea "Gnocchi (potato dumplings) with tomato sauce" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +67,7 @@ RECIPE
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Meatballs, tuna balls, zucchini balls]({{< baseurl >}}/pages/lesson-5/cooking-instruction)
+{{% resource_link 02fc3e36-204a-4a74-5081-29cf8abdff3f "Meatballs, tuna balls, zucchini balls" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,11 +78,11 @@ RECIPE
 {{< tdopen >}}
 
 
-[Eggplant parmesan]({{< baseurl >}}/pages/lesson-6/cooking-instruction#1)
+{{% resource_link b5e1a1bf-5cf8-724b-70a8-89d7ef74058a "Eggplant parmesan" "#1" %}}
 
-[Beef stew]({{< baseurl >}}/pages/lesson-6/cooking-instruction#2)
+{{% resource_link b5e1a1bf-5cf8-724b-70a8-89d7ef74058a "Beef stew" "#2" %}}
 
-[Bruschetta]({{< baseurl >}}/pages/lesson-6/cooking-instruction#3)
+{{% resource_link b5e1a1bf-5cf8-724b-70a8-89d7ef74058a "Bruschetta" "#3" %}}
 
 
 {{< tdclose >}}
@@ -92,7 +93,7 @@ RECIPE
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Spinach crepes]({{< baseurl >}}/pages/lesson-7/cooking-instruction#Spinach_Crepes)
+{{% resource_link d880b0db-d692-09ad-fb52-a417a10a2fe6 "Spinach crepes" "#Spinach_Crepes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,9 +104,9 @@ RECIPE
 {{< tdopen >}}
 
 
-[Baked potatoes with fennel]({{< baseurl >}}/pages/lesson-8/cooking-instruction#1)
+{{% resource_link 0bd5ac8d-c3dd-7724-9fd6-b759faee57f3 "Baked potatoes with fennel" "#1" %}}
 
-[Chicken roll-ups]({{< baseurl >}}/pages/lesson-8/cooking-instruction#2)
+{{% resource_link 0bd5ac8d-c3dd-7724-9fd6-b759faee57f3 "Chicken roll-ups" "#2" %}}
 
 
 {{< tdclose >}}
@@ -116,7 +117,7 @@ RECIPE
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Tiramisu]({{< baseurl >}}/pages/lesson-9/cooking-instruction)
+{{% resource_link 8000e96b-1bdd-c5d2-a937-1bab258452a3 "Tiramisu" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +126,7 @@ RECIPE
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[La sbrisolona (traditional crunchy tart)]({{< baseurl >}}/pages/lesson-10/cooking-instruction)
+{{% resource_link bdd45f22-0320-77eb-c3c5-a9b73ede701d "La sbrisolona (traditional crunchy tart)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +135,7 @@ RECIPE
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Biscotti]({{< baseurl >}}/pages/lesson-11/cooking-instruction)
+{{% resource_link 973cc08c-3ec5-82f3-ac63-c430ca1e25a5 "Biscotti" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,9 +146,9 @@ RECIPE
 {{< tdopen >}}
 
 
-[Pie]({{< baseurl >}}/pages/lesson-12/cooking-instruction#1)
+{{% resource_link 7e2856c9-a1b9-cf31-0e67-6c2f2d9df120 "Pie" "#1" %}}
 
-[Fruit tart]({{< baseurl >}}/pages/lesson-12/cooking-instruction#2)
+{{% resource_link 7e2856c9-a1b9-cf31-0e67-6c2f2d9df120 "Fruit tart" "#2" %}}
 
 
 {{< tdclose >}}
@@ -160,11 +161,11 @@ RECIPE
 {{< tdopen >}}
 
 
-[Fresh pasta: Tagliatelle]({{< baseurl >}}/pages/lesson-13#1)
+{{% resource_link 47f6cbac-8f7a-d956-625b-ba782046ba03 "Fresh pasta: Tagliatelle" "#1" %}}
 
-[Fresh pasta: Orecchiette]({{< baseurl >}}/pages/lesson-13#2)
+{{% resource_link 47f6cbac-8f7a-d956-625b-ba782046ba03 "Fresh pasta: Orecchiette" "#2" %}}
 
-[Sautéed mushrooms with garlic and parsley]({{< baseurl >}}/pages/lesson-13#3)
+{{% resource_link 47f6cbac-8f7a-d956-625b-ba782046ba03 "Sautéed mushrooms with garlic and parsley" "#3" %}}
 
 
 {{< tdclose >}}
