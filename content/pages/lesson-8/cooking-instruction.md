@@ -1,19 +1,21 @@
 ---
 content_type: page
+description: This section provides a lesson on prearing baked potatoes with fennel
+  and chicken rolls.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 8
 parent_type: CourseSection
 parent_uid: 31012ed4-66e8-2d99-ed4d-314823b03f20
-title: Cooking Instruction
+title: 'Lesson 8: Cooking Instruction'
 uid: 0bd5ac8d-c3dd-7724-9fd6-b759faee57f3
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-8/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-9) »
+« {{% resource_link 2cf16ec7-df81-9ca8-77b1-760bfca9e5b5 "Previous" %}} | {{% resource_link af3c6f3d-fbcc-b159-a0f9-93ffeb5ccf38 "Next" %}} »
 
 Watch a video:
 
-[Lesson 8, Part 2: Cooking Instruction]({{< baseurl >}}/resources/lesson-8-part-2-cooking-instruction)
+{{% resource_link 89bfb296-8b96-85f3-89c7-9caf0fd73430 "Lesson 8, Part 2: Cooking Instruction" %}}
 
 _{{< anchor "1" >}}{{< /anchor >}}Patate e Finocchi al Latte_/Potatoes and Fennel in Milk
 -----------------------------------------------------------------------------------------
@@ -73,4 +75,4 @@ _{{< anchor "2" >}}{{< /anchor >}}Involtini di Pollo al Latte_/Chicken Roll-Ups
 
 As an alternative, you can cook the _involtini_ in a non-stick pan or skillet initially at medium-high, then at medium heat. When you will be over 21, between steps 6 and 7 you can add a glass of wine and let the alcohol evaporate.
 
-« [Previous]({{< baseurl >}}/pages/lesson-8/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-9) »
+« {{% resource_link 2cf16ec7-df81-9ca8-77b1-760bfca9e5b5 "Previous" %}} | {{% resource_link af3c6f3d-fbcc-b159-a0f9-93ffeb5ccf38 "Next" %}} »

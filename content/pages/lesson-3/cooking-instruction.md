@@ -1,23 +1,24 @@
 ---
 content_type: page
+description: This section provides a lesson on making a quick pizza.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 3
 parent_type: CourseSection
 parent_uid: 16b38273-3d02-fca8-e488-1b3e810b1572
-title: 'Cooking Instruction '
+title: 'Lesson 3: Cooking Instruction'
 uid: 3442d74c-150c-b838-1b8a-9d5f2633fa35
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-3/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-4) »
+« {{% resource_link e6b24301-b6fc-c670-dfc7-5ca70ae764b4 "Previous" %}} | {{% resource_link 45ae6e3b-7bcf-ebdb-0480-f2b9be5a75b7 "Next" %}} »
 
 Watch three videos:
 
-[Lesson 3, Part 2: Ingredients and Vocab]({{< baseurl >}}/resources/lesson-3-part-2-ingredients-and-vocab)  
+{{% resource_link 8014def8-56b5-f0f6-58dd-373a6b4958ca "Lesson 3, Part 2: Ingredients and Vocab" %}}  
 
-[Lesson 3, Part 3: Cooking Instruction]({{< baseurl >}}/resources/lesson-3-part-3-cooking-instruction)  
+{{% resource_link 28160373-a10b-88c6-2793-13c6025ffe15 "Lesson 3, Part 3: Cooking Instruction" %}}  
 
-[Lesson 3, Part 4: Closing Lecture]({{< baseurl >}}/resources/lesson-3-part-4-closing-lecture)  
+{{% resource_link 1e1dc082-1f66-c324-c8ac-0245cf866de0 "Lesson 3, Part 4: Closing Lecture" %}}  
 
 _Pizza Veloce_/Quick Pizza
 --------------------------
@@ -67,4 +68,4 @@ Buon appetito!
 
 PS: In Italy we use Celsius degrees _(gradi Celsius, or gradi centigrad_i). When someone says _oggi ci sono 40 gradi_ is therefore extremely hot. You can do the conversion to see what I mean! °C x 9/5 + 32 = °F
 
-« [Previous]({{< baseurl >}}/pages/lesson-3/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-4) »
+« {{% resource_link e6b24301-b6fc-c670-dfc7-5ca70ae764b4 "Previous" %}} | {{% resource_link 45ae6e3b-7bcf-ebdb-0480-f2b9be5a75b7 "Next" %}} »

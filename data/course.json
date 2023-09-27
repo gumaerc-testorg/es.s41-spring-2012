@@ -40,8 +40,10 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Activity Assignments"
+    "Activity Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "54cd47be-d84e-4372-8c64-bb808e385a1d",
+  "site_uid": "d5fdb3e5-4291-4079-92d0-3d9e200450f1",
+  "site_short_id": "es.s41-spring-2012",
   "title": "Course Metadata"
 }

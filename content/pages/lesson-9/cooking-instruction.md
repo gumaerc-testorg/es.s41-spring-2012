@@ -1,21 +1,22 @@
 ---
 content_type: page
+description: This section provides a lesson on preparing tiramisu.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 9
 parent_type: CourseSection
 parent_uid: af3c6f3d-fbcc-b159-a0f9-93ffeb5ccf38
-title: Cooking Instruction
+title: 'Lesson 9: Cooking Instruction'
 uid: 8000e96b-1bdd-c5d2-a937-1bab258452a3
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-9/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-10) »
+« {{% resource_link 425a4a45-11b8-0530-d983-4220c685da31 "Previous" %}} | {{% resource_link 246b7204-f562-c6cf-d930-6a51cbf7a049 "Next" %}} »
 
 Watch two videos:
 
-[Lesson 9, Part 2: Ingredients and Cooking Instruction]({{< baseurl >}}/resources/lesson-9-part-2-ingredients-and-cooking-instruction)
+{{% resource_link 6e5e3110-a1f8-1d15-71b6-cbda176f2275 "Lesson 9, Part 2: Ingredients and Cooking Instruction" %}}
 
-[Lesson 9, Part 3: Cooking Instruction, continued]({{< baseurl >}}/resources/lesson-9-part-3-food-preparation)
+{{% resource_link 04aa2876-40da-87ae-4eae-8b86d49ce713 "Lesson 9, Part 3: Cooking Instruction, continued" %}}
 
 _Il Tiramisù_/Tiramisu
 ----------------------
@@ -46,4 +47,4 @@ The opposite of _su_ is _giù_.
 
 Variations: if you prepare tiramisù for kids, you can substitute the _caffè_ with a mix of milk and decaf.
 
-« [Previous]({{< baseurl >}}/pages/lesson-9/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-10) »
+« {{% resource_link 425a4a45-11b8-0530-d983-4220c685da31 "Previous" %}} | {{% resource_link 246b7204-f562-c6cf-d930-6a51cbf7a049 "Next" %}} »

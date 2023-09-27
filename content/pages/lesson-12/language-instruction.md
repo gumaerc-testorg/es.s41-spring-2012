@@ -1,22 +1,24 @@
 ---
 content_type: page
+description: This section provides the language instruction component of a lesson
+  on shopping at the grocery store.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 12
 parent_type: CourseSection
 parent_uid: f0ae6f59-4c9a-13c9-9b83-75ccf8b3c6ee
-title: Language Instruction
+title: 'Lesson 12: Language Instruction'
 uid: a953a9a9-ecfe-c3a5-3fc8-52877f157d5d
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-12) | [Next]({{< baseurl >}}/pages/lesson-12/cooking-instruction) »
+« {{% resource_link f0ae6f59-4c9a-13c9-9b83-75ccf8b3c6ee "Previous" %}} | {{% resource_link 7e2856c9-a1b9-cf31-0e67-6c2f2d9df120 "Next" %}} »
 
 _Lezione Numero Dodici_/Lesson Number 12
 ----------------------------------------
 
 Watch a video:
 
-[Lesson 12, Part 1: Opening lecture and ingredients]({{< baseurl >}}/resources/lesson-12-part-1-opening-and-ingredients)
+{{% resource_link 11f1eced-192b-0430-e9e2-c95a65438ccd "Lesson 12, Part 1: Opening lecture and ingredients" %}}
 
 _Andare a Fare la Spesa_/To Go and Do the Shopping
 --------------------------------------------------
@@ -82,4 +84,4 @@ Remember: you can always ask to try/taste/_provare_ something before you buy it 
 
 _Buon divertimento!_
 
-« [Previous]({{< baseurl >}}/pages/lesson-12) | [Next]({{< baseurl >}}/pages/lesson-12/cooking-instruction) »
+« {{% resource_link f0ae6f59-4c9a-13c9-9b83-75ccf8b3c6ee "Previous" %}} | {{% resource_link 7e2856c9-a1b9-cf31-0e67-6c2f2d9df120 "Next" %}} »

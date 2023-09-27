@@ -1,22 +1,24 @@
 ---
 content_type: page
+description: This section provides the language instruction component of a lesson
+  on coffee in Italian culture.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 9
 parent_type: CourseSection
 parent_uid: af3c6f3d-fbcc-b159-a0f9-93ffeb5ccf38
-title: Language Instruction
+title: 'Lesson 9: Language Instruction'
 uid: 425a4a45-11b8-0530-d983-4220c685da31
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-9) | [Next]({{< baseurl >}}/pages/lesson-9/cooking-instruction) »
+« {{% resource_link af3c6f3d-fbcc-b159-a0f9-93ffeb5ccf38 "Previous" %}} | {{% resource_link 8000e96b-1bdd-c5d2-a937-1bab258452a3 "Next" %}} »
 
 _Lezione Numero Nove_/Lesson Number Nine
 ----------------------------------------
 
 Watch a video clip:
 
-[Lesson 9, Part 1: Opening Lecture]({{< baseurl >}}/resources/lesson-9-part-1-opening-lecture)
+{{% resource_link 35ecb121-2116-3784-2fa3-5ebd2e093924 "Lesson 9, Part 1: Opening Lecture" %}}
 
  **Un Caffè Per Favore**
 ------------------------
@@ -48,7 +50,7 @@ Let's refresh some _vocabolario_!
 *   _**caffelatte**_ (or _caffè latte_) is the American latte. We make it mostly at home for _colazione_, it is very rare to hear anyone ordering un _caffelatte al bar._
 *   _a casa_, everyone makes _caffè_ by using the italian coffee maker, called **_caffettiera_** (also called _moka_, or _Bialetti_, from the name of the original brand).
 
-![A shiny metal coffee pot sits on the burner of a stove.]({{< resource_file ab951a3b-4ad4-f406-f5f4-eb1738269ed3 >}})
+{{< resource ab951a3b-4ad4-f406-f5f4-eb1738269ed3 >}}
 
 A photograph of the Italian coffee maker called _Bialetti, moka_ or _caffettiera_. This is the way most Italians make coffee at home. (Image courtesy of [ispivey](http://www.flickr.com/photos/ispivey/196132880/) on flickr.)
 
@@ -66,6 +68,6 @@ _Compiti_/Assignments
 _Esercizi_/Exercises
 --------------------
 
-[Complete the exercises for Lesson 9 (PDF)]({{< baseurl >}}/resources/mites_s41s12_esercizi9).
+{{% resource_link 9a75c2c0-8b3c-bd49-9460-516c2a08e58c "Complete the exercises for Lesson 9 (PDF)" %}}.
 
-« [Previous]({{< baseurl >}}/pages/lesson-9) | [Next]({{< baseurl >}}/pages/lesson-9/cooking-instruction) »
+« {{% resource_link af3c6f3d-fbcc-b159-a0f9-93ffeb5ccf38 "Previous" %}} | {{% resource_link 8000e96b-1bdd-c5d2-a937-1bab258452a3 "Next" %}} »

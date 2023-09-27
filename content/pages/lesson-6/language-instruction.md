@@ -1,24 +1,26 @@
 ---
 content_type: page
+description: "This section provides the language instruction component of a lesson\
+  \ on asking and giving directions, and La Festa del Pap\xE0."
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 6
 parent_type: CourseSection
 parent_uid: 4295e758-bff2-5514-bf94-945586ed328d
-title: Language Instruction
+title: 'Lesson 6: Language Instruction'
 uid: fa33c08e-4657-c62c-37eb-e7a3c8d11ac2
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-6) | [Next]({{< baseurl >}}/pages/lesson-6/cooking-instruction) »
+« {{% resource_link 4295e758-bff2-5514-bf94-945586ed328d "Previous" %}} | {{% resource_link b5e1a1bf-5cf8-724b-70a8-89d7ef74058a "Next" %}} »
 
 _Lezione Numero Sei_ /Lesson Number Six
 ---------------------------------------
 
 Watch two videos:
 
-[Lesson 6, Part 1: Vocabulary and Sentences]({{< baseurl >}}/resources/lesson-6-part-1-vocabulary-and-sentences)
+{{% resource_link 753e46b8-1378-fe67-e933-8ab9bb5efade "Lesson 6, Part 1: Vocabulary and Sentences" %}}
 
-[Lesson 6, Part 3: Closing Lecture]({{< baseurl >}}/resources/lesson-6-part-3-closing-lecture)
+{{% resource_link 5f192f2d-0595-6705-091f-6017622b4043 "Lesson 6, Part 3: Closing Lecture" %}}
 
 Lecture
 -------
@@ -32,7 +34,7 @@ Listen to audio for Lesson 6
 
 _Leggi, ascolta e ripeti._/ Read, listen, and repeat.
 
-[Lesson 6 audio (MP3 - 2.6MB)]({{< baseurl >}}/resources/incucina)
+{{% resource_link 990339c3-1551-6991-8889-ff00999d1eef "Lesson 6 audio (MP3 - 2.6MB)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -123,13 +125,13 @@ Sorry, I did not understand. Can you repeat please?
 _Esercizi_/Exercises
 --------------------
 
-[Lesson 6 Exercises (PDF)]({{< baseurl >}}/resources/mites_s41s12_compiti_6)
+{{% resource_link 983ce2d4-eed9-6d57-85e5-b2e634e40edb "Lesson 6 Exercises (PDF)" %}}
 
 Note: Use the audio file below for the first exercise.
 
 _Ascolta e ripeti._/Listen and repeat.
 
-[Esercizi/Exercises (MP3 - 3.2MB)]({{< baseurl >}}/resources/vocabolario6)
+{{% resource_link 6b4328bd-79c4-21fa-bf25-1a80f0b8bcfc "Esercizi/Exercises (MP3 - 3.2MB)" %}}
 
 Use the [map of Rome](http://www.informagiovani-italia.com/mappa_roma_cartina.htm) for the following section.
 
@@ -397,4 +399,4 @@ On foot (piede = foot)
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/lesson-6) | [Next]({{< baseurl >}}/pages/lesson-6/cooking-instruction) »
+« {{% resource_link 4295e758-bff2-5514-bf94-945586ed328d "Previous" %}} | {{% resource_link b5e1a1bf-5cf8-724b-70a8-89d7ef74058a "Next" %}} »

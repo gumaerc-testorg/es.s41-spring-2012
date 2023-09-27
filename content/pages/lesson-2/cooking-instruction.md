@@ -1,25 +1,26 @@
 ---
 content_type: page
+description: This section provides a lesson on preparing risotto.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 2
 parent_type: CourseSection
 parent_uid: 463b4c8e-dc1e-e06b-6353-693de4b36524
-title: Cooking Instruction
+title: 'Lesson 2: Cooking Instruction'
 uid: 037bd9c3-765a-1418-15f2-c7634ae47ba8
 ---
-
-« [Previous]({{< baseurl >}}/pages/lesson-2/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-3) »
+« {{% resource_link 8c884d0f-0658-45e9-a1eb-f0f9bb923451 "Previous" %}} | {{% resource_link 16b38273-3d02-fca8-e488-1b3e810b1572 "Next" %}} »
 
 Watch two videos:
 
-[Lesson 2, Part 2: Ingredients]({{< baseurl >}}/resources/lesson-2-part-2-ingredients)
+{{% resource_link 58ae119c-0e8f-f425-a2e3-8bf67630a2b2 "Lesson 2, Part 2: Ingredients" %}}
 
-[Lesson 2, Part 3: Cooking Instruction]({{< baseurl >}}/resources/lesson-2-part-3-cooking-instruction)
+{{% resource_link 686e37de-8c32-c0c8-58be-d7d03d5499e0 "Lesson 2, Part 3: Cooking Instruction" %}}
 
 Listen to the pronunciation of the ingredients for risotto:
 
-[Pronunciation of the ingredients for risotto (MP3)]({{< baseurl >}}/resources/ingredienti2)
+{{% resource_link e1d0c900-c718-ec52-7386-df8ceb4a1315 "Pronunciation of the ingredients for risotto (MP3)" %}}
 
 _Il Risotto_
 ------------
@@ -76,4 +77,4 @@ Note: In the traditional recipe you prepare the broth and add it, instead of put
 
 _Buon appetito_! Enjoy your meal!
 
-« [Previous]({{< baseurl >}}/pages/lesson-2/language-instruction) | [Next]({{< baseurl >}}/pages/lesson-3) »
+« {{% resource_link 8c884d0f-0658-45e9-a1eb-f0f9bb923451 "Previous" %}} | {{% resource_link 16b38273-3d02-fca8-e488-1b3e810b1572 "Next" %}} »

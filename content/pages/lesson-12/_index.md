@@ -1,42 +1,34 @@
 ---
 content_type: page
+description: This section contains the materials used in the twelfth lesson, including
+  audio, conversation notes, cooking notes, and assignments. Lesson topics include
+  language instruction on shopping at the grocery store, and cooking instruction on
+  preparing fruit tarts.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lesson 12
 uid: f0ae6f59-4c9a-13c9-9b83-75ccf8b3c6ee
 ---
+« {{% resource_link 973cc08c-3ec5-82f3-ac63-c430ca1e25a5 "Previous" %}} | {{% resource_link a953a9a9-ecfe-c3a5-3fc8-52877f157d5d "Next" %}} »
 
-« [Previous]({{< baseurl >}}/pages/lesson-11/cooking-instruction) | [Next]({{< baseurl >}}/pages/lesson-12/language-instruction) »
-
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-![A slice of tart with berries and kiwi sits on a white plate.]({{< resource_file 998c3315-e64c-b0a6-6ad4-4ef1a53f853b >}})
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< resource 998c3315-e64c-b0a6-6ad4-4ef1a53f853b >}}
 
 A sample of the fruit tart the students made. (Image courtesy of Graham Gordon Ramsay.)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
 In this lesson, you will learn:
 
-[Language Instruction]({{< baseurl >}}/pages/lesson-12/language-instruction)
+{{% resource_link a953a9a9-ecfe-c3a5-3fc8-52877f157d5d "Language Instruction" %}}
 
-*   Shopping at the grocery store
+- Shopping at the grocery store
 
-[Cooking Instruction]({{< baseurl >}}/pages/lesson-12/cooking-instruction)
+{{% resource_link 7e2856c9-a1b9-cf31-0e67-6c2f2d9df120 "Cooking Instruction" %}}
 
 How to prepare:
 
-*   _Crostata e torta di frutt_a/Pie or fruit tart
+- Crostata e torta di frutta/Pie or fruit tart
 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-« [Previous]({{< baseurl >}}/pages/lesson-11/cooking-instruction) | [Next]({{< baseurl >}}/pages/lesson-12/language-instruction) »
+« {{% resource_link 973cc08c-3ec5-82f3-ac63-c430ca1e25a5 "Previous" %}} | {{% resource_link a953a9a9-ecfe-c3a5-3fc8-52877f157d5d "Next" %}} »
