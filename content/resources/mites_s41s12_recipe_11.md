@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Biscotti recipe.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/f1462f5fea6b2e7f0c3bc516f334723d_MITES_S41S12_recipe_11.pdf
+file_size: 928886
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

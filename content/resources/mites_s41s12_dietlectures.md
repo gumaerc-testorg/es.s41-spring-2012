@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding mediterranean diet lecture
   slides.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/c8869aba4da4ed9b6600d63e110cc249_MITES_S41S12_DietLectures.pdf
+file_size: 2189129
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

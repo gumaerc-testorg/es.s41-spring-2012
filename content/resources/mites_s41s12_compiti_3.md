@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lesson 3 assignment.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/efaf3ee3669f5f5e355165241c54a717_MITES_S41S12_compiti_3.pdf
+file_size: 114307
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

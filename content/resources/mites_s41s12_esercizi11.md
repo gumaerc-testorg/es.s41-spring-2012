@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the content of exercise 11.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/ab52820017c7940e011748fdb57d4ab1_MITES_S41S12_Esercizi11.pdf
+file_size: 183642
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
