@@ -3,6 +3,7 @@ content_type: resource
 description: The students learned about the health benefits of the Mediterranean diet,
   which includes eating a lot of fruits and vegetables. Image courtesy of the USDA.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/103848ae41da7ef945eae9eaf3aa902d_Lesson8.jpg
+file_size: 85321
 file_type: image/jpeg
 image_metadata:
   caption: The students learned about the health benefits of the Mediterranean diet,

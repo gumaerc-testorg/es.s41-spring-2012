@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding Fresh Pasta: Orecchiette.'
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/3446dbf3efdd83af705ed8eb2b6bd334_MITES_S41S12_recipe_13b.pdf
+file_size: 928832
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: Onions, garlic, celery, and carrots are some basic ingredients that are
   used in Italian cooking. Image courtesy of Graham Gordon Ramsay.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/970f8c937ff788acd1b6a2e0e87d54ab_Lesson4.jpg
+file_size: 62734
 file_type: image/jpeg
 image_metadata:
   caption: Onions, garlic, celery, and carrots are some basic ingredients that are

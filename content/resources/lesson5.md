@@ -3,6 +3,7 @@ content_type: resource
 description: The students made zucchini balls by grating zucchini, mixing them with
   bread crumbs, and baking them in the oven.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d91360fb2bbf5611b989e4654ec228fd_Lesson5.jpg
+file_size: 214372
 file_type: image/jpeg
 image_metadata:
   caption: The students made zucchini balls by grating zucchini, mixing it with bread
