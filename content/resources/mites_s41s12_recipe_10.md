@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Sbrisolona Recipe.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/889b255d64eb5cdd6e457c9be0ccaaf8_MITES_S41S12_recipe_10.pdf
+file_size: 354643
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

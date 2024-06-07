@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lesson 2 assignments.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/ae709ed8a8fcd05a8237fe340e61b453_MITES_S41S12_compiti_2.pdf
+file_size: 116020
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

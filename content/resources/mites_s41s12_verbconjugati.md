@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding list of verbs to conjugate.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/b7a7545fa715080799e5b191a6440259_MITES_S41S12_verbConjugati.pdf
+file_size: 94782
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

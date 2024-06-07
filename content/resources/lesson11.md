@@ -3,6 +3,7 @@ content_type: resource
 description: The students learned to make biscotti. Image courtesy of Graham Gordon
   Ramsay.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/8ddb59bc97d2d2e915cc548370390ed6_Lesson11.jpg
+file_size: 62251
 file_type: image/jpeg
 image_metadata:
   caption: The students learned to make biscotti.

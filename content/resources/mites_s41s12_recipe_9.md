@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Tiramisu recipe.
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d8dda8aff5ec4387610ba78bbe25886f_MITES_S41S12_recipe_9.pdf
+file_size: 466490
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

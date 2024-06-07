@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/990339c3155169918889ff00999d1eef_incucina.mp3
+file_size: 2750924
 file_type: audio/mpeg
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

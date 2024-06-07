@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/e1d0c900c718ec527386df8ceb4a1315_ingredienti2.mp3
+file_size: 791114
 file_type: audio/mpeg
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
