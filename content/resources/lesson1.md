@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "A colorful selection of vegetables being saut\xE9ed in a pan. "
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/b0b26ac51e9af71e5ad4feb8217b9a9c_Lesson1.jpg
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/b0b26ac51e9af71e5ad4feb8217b9a9c_Lesson1.jpg
 file_size: 87069
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Pasta All' Amatriciana Recipe.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/585b00847c73209d6a833baae34e26b5_MITES_S41S12_recipe_1.pdf
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/585b00847c73209d6a833baae34e26b5_MITES_S41S12_recipe_1.pdf
 file_size: 586630
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Spinach Crepe recipe.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/df2bb85caa96f30b3aba8a14ff53502f_MITES_S41S12_recipe_7.pdf
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/df2bb85caa96f30b3aba8a14ff53502f_MITES_S41S12_recipe_7.pdf
 file_size: 817063
 file_type: application/pdf
 learning_resource_types: []

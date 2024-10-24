@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Sauteed Mushroom Recipe.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/7647c0a633afc8673656ec52be277cec_MITES_S41S12_recipe_13c.pdf
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/7647c0a633afc8673656ec52be277cec_MITES_S41S12_recipe_13c.pdf
 file_size: 462479
 file_type: application/pdf
 learning_resource_types: []

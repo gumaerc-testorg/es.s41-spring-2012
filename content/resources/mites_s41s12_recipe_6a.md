@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Eggplant parmesan.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/5ce3bd84eb9b15b3f705e16853b2fd88_MITES_S41S12_recipe_6a.pdf
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/5ce3bd84eb9b15b3f705e16853b2fd88_MITES_S41S12_recipe_6a.pdf
 file_size: 758676
 file_type: application/pdf
 learning_resource_types: []

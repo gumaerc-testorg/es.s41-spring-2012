@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/27e08e48433c97b866b7d9e1b2008d52_mipiace.mp3
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/27e08e48433c97b866b7d9e1b2008d52_mipiace.mp3
 file_size: 2502239
 file_type: audio/mpeg
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/dfacc78b54ce17876c54d421c46fc5f6_MITES_S41S12_compiti_1.pdf
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/dfacc78b54ce17876c54d421c46fc5f6_MITES_S41S12_compiti_1.pdf
 file_size: 147054
 file_type: application/pdf
 learning_resource_types: []
