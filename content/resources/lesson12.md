@@ -2,7 +2,7 @@
 content_type: resource
 description: A sample of the fruit tart the students made. Image courtesy of Graham
   Gordon Ramsay.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/998c3315e64cb0a66ad44ef1a53f853b_Lesson12.jpg
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/998c3315e64cb0a66ad44ef1a53f853b_Lesson12.jpg
 file_size: 39410
 file_type: image/jpeg
 image_metadata:

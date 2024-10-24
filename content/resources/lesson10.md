@@ -2,7 +2,7 @@
 content_type: resource
 description: La sbrisolona, a big crumbly tart, is popular in the Italian city of
   Mantova. Image courtesy of Graham Gordon Ramsay.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/28bae3a747f7b30910596aa0afeb7534_Lesson10.jpg
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/28bae3a747f7b30910596aa0afeb7534_Lesson10.jpg
 file_size: 174059
 file_type: image/jpeg
 image_metadata:

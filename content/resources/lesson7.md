@@ -2,7 +2,7 @@
 content_type: resource
 description: During this lesson, the class learned how to make spinach crepes. Image
   courtesy of framboise on Flickr. CC BY-NC-SA.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d38d54015192a07a2a36b6643f6c9f28_Lesson7.jpg
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d38d54015192a07a2a36b6643f6c9f28_Lesson7.jpg
 file_size: 79369
 file_type: image/jpeg
 image_metadata:
