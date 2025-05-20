@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Meatball and Vegetarian
   Meatball recipes.
-file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/97dc0dc25effbe4ecbccbca9c1fba173_MITES_S41S12_recipe_5.pdf
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/97dc0dc25effbe4ecbccbca9c1fba173_MITES_S41S12_recipe_5.pdf
 file_size: 643122
 file_type: application/pdf
 learning_resource_types: []
