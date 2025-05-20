@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/e36b5812ddd99f8fbc1b73e567d69113_ES-S41_classroom-2.png
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/e36b5812ddd99f8fbc1b73e567d69113_ES-S41_classroom-2.png
 file_size: 74736
 file_type: image/png
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Potato Gnocchi Recipe.
-file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d9553af40c99225486668438367d7671_MITES_S41S12_recipe_4.pdf
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d9553af40c99225486668438367d7671_MITES_S41S12_recipe_4.pdf
 file_size: 608728
 file_type: application/pdf
 learning_resource_types: []
