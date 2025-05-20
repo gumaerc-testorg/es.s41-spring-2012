@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lesson 4 exercises.
-file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d7cc05f8343273c058f91c4c9b36c398_MITES_S41S12_lesson4Exerci.pdf
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d7cc05f8343273c058f91c4c9b36c398_MITES_S41S12_lesson4Exerci.pdf
 file_size: 123861
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on complete the assignment for lesson
   9.
-file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/9a75c2c08b3cbd499460516c2a08e58c_MITES_S41S12_Esercizi9.pdf
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/9a75c2c08b3cbd499460516c2a08e58c_MITES_S41S12_Esercizi9.pdf
 file_size: 140911
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding lesson 4 assignments. '
-file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/85f412795336eae299c1bdf4bad5561b_MITES_S41S12_compiti_4.pdf
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/85f412795336eae299c1bdf4bad5561b_MITES_S41S12_compiti_4.pdf
 file_size: 72618
 file_type: application/pdf
 learning_resource_types: []

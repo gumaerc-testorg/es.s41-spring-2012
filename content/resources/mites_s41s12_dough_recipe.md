@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains recipe of dough.
-file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/570e5ed612d8e8fac953692ac2fbc8e6_MITES_S41S12_dough_recipe.pdf
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/570e5ed612d8e8fac953692ac2fbc8e6_MITES_S41S12_dough_recipe.pdf
 file_size: 315891
 file_type: application/pdf
 learning_resource_types: []

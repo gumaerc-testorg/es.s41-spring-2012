@@ -2,7 +2,7 @@
 content_type: resource
 description: A screenshot of the class' blog. Image courtesy of Paola Rebusco and
   Graham Gordon Ramsay.
-file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/eefaab45dadfd5f9b12a4cb8f36e4b66_Screenshot.jpg
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/eefaab45dadfd5f9b12a4cb8f36e4b66_Screenshot.jpg
 file_size: 46569
 file_type: image/jpeg
 image_metadata:

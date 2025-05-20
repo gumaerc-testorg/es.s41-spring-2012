@@ -2,7 +2,7 @@
 content_type: resource
 description: The students learned how to make fresh pasta. This dish is orecchiette
   alla caprese. Image courtesy of Graham Gordon Ramsay.
-file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/457aa75e8c977201fe6d391f8bb8a2c4_Lesson13.jpg
+file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/457aa75e8c977201fe6d391f8bb8a2c4_Lesson13.jpg
 file_size: 66063
 file_type: image/jpeg
 image_metadata:
