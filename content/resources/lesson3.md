@@ -2,7 +2,7 @@
 content_type: resource
 description: The class works on their homemade pizza dough. Image courtesy of Graham
   Gordon Ramsay.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/33c93bbd7da68feccf4b043b6d42a4cd_Lesson3.jpg
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/33c93bbd7da68feccf4b043b6d42a4cd_Lesson3.jpg
 file_size: 63804
 file_type: image/jpeg
 image_metadata:
