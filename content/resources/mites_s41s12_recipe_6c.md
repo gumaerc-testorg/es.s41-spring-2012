@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Bruschetta.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/dc18aa1cefd5a07aaee13fb83bbf7e31_MITES_S41S12_recipe_6c.pdf
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/dc18aa1cefd5a07aaee13fb83bbf7e31_MITES_S41S12_recipe_6c.pdf
 file_size: 127277
 file_type: application/pdf
 learning_resource_types: []

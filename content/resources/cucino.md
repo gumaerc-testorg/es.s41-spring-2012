@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/54451fe5f143a70b9d9fb22a4b5fc8e3_cucino.mp3
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/54451fe5f143a70b9d9fb22a4b5fc8e3_cucino.mp3
 file_size: 785680
 file_type: audio/mpeg
 learning_resource_types: []

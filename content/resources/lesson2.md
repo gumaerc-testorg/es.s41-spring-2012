@@ -2,7 +2,7 @@
 content_type: resource
 description: A plate of risotto. In this lesson, students made three different kinds
   of risotto. Image courtesy of Claire Sutton on Flickr. CC BY-NC-SA.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/35e81c71eb7a8eee6aa284b3e38ef095_Lesson2.jpg
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/35e81c71eb7a8eee6aa284b3e38ef095_Lesson2.jpg
 file_size: 68450
 file_type: image/jpeg
 image_metadata:

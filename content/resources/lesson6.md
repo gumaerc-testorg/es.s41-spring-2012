@@ -2,7 +2,7 @@
 content_type: resource
 description: In this lesson, students made bruschetta. Image courtesy of Graham Gordon
   Ramsay.
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/1356ee4ce6a0ccb399723c407aeb3acb_Lesson6.jpg
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/1356ee4ce6a0ccb399723c407aeb3acb_Lesson6.jpg
 file_size: 159466
 file_type: image/jpeg
 image_metadata:
