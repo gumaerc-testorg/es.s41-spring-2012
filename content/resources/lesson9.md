@@ -2,7 +2,7 @@
 content_type: resource
 description: Espresso is a very popular drink in Italy. Image courtesy of Michelle
   Tribe on Flickr. CC BY
-file: /courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/f805ea3dfb2d31497c3e1aeeff9e1df4_Lesson9.jpg
+file: /ol-ocw-studio-app/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/f805ea3dfb2d31497c3e1aeeff9e1df4_Lesson9.jpg
 file_size: 45900
 file_type: image/jpeg
 image_metadata:
