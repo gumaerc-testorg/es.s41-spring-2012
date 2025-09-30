@@ -133,12 +133,12 @@ Use this audio file for the dictation exercise.
 
 ## Related Resources
 
-[Light on the Piazza: The Newsletter for Lovers of Italian Culture](http://archive.constantcontact.com/fs089/1104667042190/archive/1109135403790.html)
+{{% resource_link "c935471c-1faa-413e-9c97-a3cf60276a20" "Light on the Piazza: The Newsletter for Lovers of Italian Culture" %}}
 
-[Map of Italy](http://viaggi.globopix.net/cartina/cartina-italia-politica.jpg)
+{{% resource_link "4822d0ea-319f-4c8f-b807-a75460d1f782" "Map of Italy" %}}
 
-[Chiacchiere di Carnevale](http://vinchef.blogspot.com/2012/01/chiacchiere-di-carnevale.html)
+{{% resource_link "9d2228c9-166a-4c23-bbf5-6f0b02e783ee" "Chiacchiere di Carnevale" %}}
 
-[Le Fritelle di Carnevale](http://comefare.com/come-fare-le-frittelle-di-carnevale/)
+{{% resource_link "9993f046-8823-4db1-bb3d-f3fc68f72a48" "Le Fritelle di Carnevale" %}}
 
 « {{% resource_link 463b4c8e-dc1e-e06b-6353-693de4b36524 "Previous" %}} | {{% resource_link 037bd9c3-765a-1418-15f2-c7634ae47ba8 "Next" %}} »

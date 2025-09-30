@@ -26,7 +26,7 @@ _L'altro ieri_ (literally "the other yesterday", meaning the day before yesterda
 - Yesterday in class we baked _la torta sbrisolona_.
 - In Italian a noun or adjective can be modified by taking the root and adding a suffix to express a particular quality.
 - The suffix _– ona/one_ (f/m) is used when something is big, or a lot. _La sbrisolona_, can be translated into something like "the very crumbly thing".
-- Let's look at the most common examples of modifying suffixes (in reality there are a lot more — see e.g. [http://italian.about.com/od/grammar/a/aa061108a.htm](http://italian.about.com/od/grammar/a/aa061108a.htm)). Try to read them _ad alta voce!!!!_
+- Let's look at the most common examples of modifying suffixes (in reality there are a lot more — see e.g. {{% resource_link "792f0af6-da6b-443a-a7c9-4c66e29995c2" "http://italian.about.com/od/grammar/a/aa061108a.htm" %}}). Try to read them _ad alta voce!!!!_
 
 ## _Diminutivo_ (Conveys Smallness)
 

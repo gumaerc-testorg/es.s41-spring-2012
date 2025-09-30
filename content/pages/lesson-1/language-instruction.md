@@ -92,7 +92,7 @@ A-E-I-O-U
 
 We use grave and acute accents, although in handwriting it mostly makes no difference. Most words have grave (or open) accents (e.g. caffè).
 
-Acute (or closed) accents (e.g. perché) are less common. I (and many many Italians) pronounce acute accents open, but it is not approved by the [Accademia della Crusca](http://www.accademiadellacrusca.it/en/pagina-d-entrata) (literally The Academy of the Bran), a society of scholars and linguists that was founded around 1582–1583 with the goal of developing and protecting the pure Italian language. The name comes from the process of sifting the best flour from the lower quality bran.
+Acute (or closed) accents (e.g. perché) are less common. I (and many many Italians) pronounce acute accents open, but it is not approved by the {{% resource_link "7b182843-77fd-44c2-aec2-c978639b48cb" "Accademia della Crusca" %}} (literally The Academy of the Bran), a society of scholars and linguists that was founded around 1582–1583 with the goal of developing and protecting the pure Italian language. The name comes from the process of sifting the best flour from the lower quality bran.
 
 Seven basic vowel sounds:
 

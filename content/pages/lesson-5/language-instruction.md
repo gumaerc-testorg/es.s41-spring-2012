@@ -24,7 +24,7 @@ Watch a video:
 
 - *Oggi è giovedì otto marzo duemiladodici* (8/3/2012). *È un giorno importante, è la festa della donna*!!!! (International Women's Day, literally "woman celebration.")
 - *L'otto marzo è* (is) a day to honor all the women and to remind ourselves of the continued awareness and action required to ensure equality in every aspect in life.
-- [*La Festa Della Donna*](https://www.internationalwomensday.com/) is recognized in many countries, including the U.S., but it is not very popular here; I find it ironic. Living in Cambridge, I had the opportunity to appreciate how much more fair the working conditions are here than in Italy. Moreover, all the institutions in the U.S. are discussing and working actively to reach a more complete and real equality. Yet in this same country nobody today told me *Auguri/\_Felicitations! (Literally "wishes!"). \_Buona Festa Della Donna/\_Happy Women's Day*!!!\_ (Literally "good celebration of the woman"). *Buffo*/funny.
+- {{% resource_link "3700d9a3-c92a-4088-ba5a-138b9b9b58cc" "*La Festa Della Donna*" %}} is recognized in many countries, including the U.S., but it is not very popular here; I find it ironic. Living in Cambridge, I had the opportunity to appreciate how much more fair the working conditions are here than in Italy. Moreover, all the institutions in the U.S. are discussing and working actively to reach a more complete and real equality. Yet in this same country nobody today told me *Auguri/\_Felicitations! (Literally "wishes!"). \_Buona Festa Della Donna/\_Happy Women's Day*!!!\_ (Literally "good celebration of the woman"). *Buffo*/funny.
 
 Anyway, at school in Italy we learn that the origin of this day is rooted in two events that happened outside Italy:
 
@@ -36,8 +36,8 @@ Now you can relax and listen to a couple of popular Italian songs about women!
 
 Fornarciari
 
-- *"*[Donne](http://www.youtube.com/watch?feature=player_embedded&v=n6MnkyTRlKU)*"* by Zucchero Fornaciari. March 8, 2008. YouTube. Accessed May 13, 2013. 
-- "[Una Donna Per Amico](http://www.youtube.com/watch?feature=player_embedded&v=atBTu_XGfYE)*"* by Lucio Battisti. July 14, 2011. YouTube. Accessed May 13, 2013. 
+- *"*{{% resource_link "56b2c205-0406-47e7-8e4e-24224c39bc69" "Donne" %}}*"* by Zucchero Fornaciari. March 8, 2008. YouTube. Accessed May 13, 2013. 
+- "{{% resource_link "9a056359-8ba3-4a0a-8ded-37e7cabf08cb" "Una Donna Per Amico" %}}*"* by Lucio Battisti. July 14, 2011. YouTube. Accessed May 13, 2013. 
 
 ## *Esercizio*/Exercise
 
@@ -214,7 +214,7 @@ The traditional meal is composed of:
 
 ## *Esercizi*/Exercises
 
-- Pick an activity from the [Languages Online-Italian website](https://www.languagesonline.org.uk/Hotpotatoes/italianindex.html#gsc.tab=0). Solve it and print it out.
+- Pick an activity from the {{% resource_link "51c18a39-0ced-4d8f-9093-4108ad68d910" "Languages Online-Italian website" %}}. Solve it and print it out.
 - Record yourself talking about your *giornata tipica*.
 
 « {{% resource_link "56e06732-1e88-3c54-5df6-9d03d3daeb8b" "Previous" %}} | {{% resource_link "02fc3e36-204a-4a74-5081-29cf8abdff3f" "Next" %}} »
