@@ -13,7 +13,7 @@ uid: a6e7d634-7a40-6faa-23d0-020703ee7044
 
 This page focuses on the course _ES.S41_ _Speak Italian With Your Mouth Full_ as it was taught by Dr. Paola Rebusco in Spring 2012.
 
-In this [Experimental Study Group seminar](http://esg.mit.edu/learninginnovation/undergraduate-seminars/), students learned conversational Italian and how to prepare delicious Italian meals, while developing an understanding of Italian culture. Each class consisted of three parts: language instruction, identification of cooking ingredients in Italian, and cooking instruction. The juxtaposition of language learning and cooking provided the students with a unique way to learn and practice Italian. This course was taught in a combination of English and Italian.
+In this {{% resource_link "e9b2f52c-a491-4e9e-9c1c-e3f79e8d1296" "Experimental Study Group seminar" %}}, students learned conversational Italian and how to prepare delicious Italian meals, while developing an understanding of Italian culture. Each class consisted of three parts: language instruction, identification of cooking ingredients in Italian, and cooking instruction. The juxtaposition of language learning and cooking provided the students with a unique way to learn and practice Italian. This course was taught in a combination of English and Italian.
 
 ## Course Outcomes
 
