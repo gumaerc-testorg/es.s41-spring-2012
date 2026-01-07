@@ -70,7 +70,7 @@ Watch three videos:
 4. Flatten the dough using a pasta machine or a rolling pin. If you use a pasta machine, lightly dust it and the dough with flour each time you run the pasta through it. Start from the widest setting and switch to the narrower until you reach the desired thickness. If you use the rolling pin, be sure to dust it and the counter with flour; flatten down to a thickness on about half a mm. Essentially as thin as you can.
 5. Cut the pasta in your favorite shape. _Tagliatelle_ are about 5–7 mm (0.2/0.3") wide, _pappardelleare_ wider (1.5–2 cm)
 
-Look here for some ideas: {{% resource_link "b36d9072-265e-4be8-b064-1d94e88fec10" "http://ricette.giallozafferano.it/Pasta–fresca–all–uovo.html" %}}
+Look here for some ideas: [http://ricette.giallozafferano.it/Pasta–fresca–all–uovo.html](http://ricette.giallozafferano.it/Pasta-fresca-all-uovo.html)
 
 ### Commenti e variazioni
 
@@ -122,7 +122,7 @@ _Orecchietta_ literally means "little cute ear" (_orecchio_ or _orecchia_ = ear)
 ### Procedimento
 
 1. _Impasta_/knead forcefully for at least 10 minutes. You want the dough to be hard, smooth, and elastic. Wrap the dough in plastic wrap and let it rest for about 30 minutes. If you do not have the patience/_la pazienza_ to wait it's ok. ;)
-2. Roll pieces of dough into ropes as thin as a pen, and with a knife cut pieces of about 1/4". With your hands, or with the help of a knife, give these pieces the characteristic _orecchietta_ shape.Watch our videos or check out this link for visual help {{% resource_link "49f6c573-0130-454b-a4f4-f958b2a79704" "http://www.gennarino.org/orecchiette.htm" %}}.
+2. Roll pieces of dough into ropes as thin as a pen, and with a knife cut pieces of about 1/4". With your hands, or with the help of a knife, give these pieces the characteristic _orecchietta_ shape.Watch our videos or check out this link for visual help [http://www.gennarino.org/orecchiette.htm](http://www.gennarino.org/orecchiette.htm).
 3. If you are not starving, let the _orecchiette_ dry for a few hours. You can skip this step.
 4. Cook your _orecchiette_ in boiling salty water for about 10 minutes or until _al dente_.
 

@@ -21,7 +21,7 @@ uid: 2cf16ec7-df81-9ca8-77b1-760bfca9e5b5
 
 ## Introduction: _La Dieta Mediterranea_/The Mediterranean Diet
 
-We had _un'ospite speciale_/a special guest: {{% resource_link "e902b185-032b-4e66-b31c-f878c1bf424c" "Anna Jasonides" %}} R. D., L. D., nutritionist from MIT medical. She made a great presentation about _la dieta mediterranea_: what it is, what are its benefits, and examples from the Greek cuisine.
+We had _un'ospite speciale_/a special guest: [Anna Jasonides](http://medweb.mit.edu/directory/staff/profiles/ajasonides.html) R. D., L. D., nutritionist from MIT medical. She made a great presentation about _la dieta mediterranea_: what it is, what are its benefits, and examples from the Greek cuisine.
 
 The noun _ospite_ can be used for a masculine or feminine guest, but you would use a different (indeterminative) article. _Una ospite -> un'ospite_ (f) _vs un ospite_ (m, without apostrophe).
 
@@ -34,7 +34,7 @@ The noun _ospite_ can be used for a masculine or feminine guest, but you would u
 
 ## _Esercizi_/Exercises (Review)
 
-- Read and solve the activities of the section "{{% resource_link "751058b0-8c1c-4a2a-8d45-51d4f2ec2ed0" "_Espressioni con avere_" %}}".
+- Read and solve the activities of the section "[_Espressioni con avere_](http://web.uvic.ca/~hisitaex/exercises/italian/italian100/verbi/index.htm)".
 
 (There is a small error in the text: Italians would say "Ha sempre fretta" not "Sempre ha fretta".)
 
