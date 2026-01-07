@@ -25,7 +25,7 @@ _Pizza Veloce_/Quick Pizza
 
 If you want to make "real pizza" you need a lot of time, because when you use yeast you must wait for the dough to rise. _Questa ricetta_ uses baking powder: it is much faster and still very tasty!
 
-One of the most basic pizzas is the pizza Margherita, with tomato, mozzarella and basil. Do you know that pizza Margherita was invented after MIT was founded? Read about the {{% resource_link "cd27890f-9a23-43d1-a730-dbdf79501fe6" "history of pizza" %}}.
+One of the most basic pizzas is the pizza Margherita, with tomato, mozzarella and basil. Do you know that pizza Margherita was invented after MIT was founded? Read about the [history of pizza](http://www.recipepizza.com/history_of_pizza.htm).
 
 ### Ingredienti Per 3 Persone
 

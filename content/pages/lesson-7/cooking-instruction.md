@@ -22,7 +22,7 @@ During the last class we repeated the vocabulary by singing a modified version o
 
 Watch a YouTube video:
 
-"{{% resource_link "c8cc7c23-3afe-4817-a2ea-acdbc944d29d" "Nella Vecchia Fattoria" %}}." Quartetto Cetra. August 28, 2009. YouTube. Accessed May 13, 2013. 
+"[Nella Vecchia Fattoria](http://www.youtube.com/watch?v=35ts0avRmT4)." Quartetto Cetra. August 28, 2009. YouTube. Accessed May 13, 2013. 
 
 Try to sing along! You have to decide when to use c\`è (=there is) or _ci sono_ (= there are).
 

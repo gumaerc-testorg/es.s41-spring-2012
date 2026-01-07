@@ -133,7 +133,7 @@ _Ascolta e ripeti._/Listen and repeat.
 
 {{% resource_link 6b4328bd-79c4-21fa-bf25-1a80f0b8bcfc "Esercizi/Exercises (MP3 - 3.2MB)" %}}
 
-Use the {{% resource_link "cb9f8dcd-ed77-4fb5-bbb3-f3eafa138485" "map of Rome" %}} for the following section.
+Use the [map of Rome](http://www.informagiovani-italia.com/mappa_roma_cartina.htm) for the following section.
 
 Person 1: Mi scusi, dov'è la Fontana di Trevi?
 

@@ -55,7 +55,7 @@ outside of class.
 
 Students were required to complete the following activities each week:
 
-- Read from the instructor's {{% resource_link "160e4387-5495-472a-aec7-5bf44d5fff0d" "blog" %}} entry for that week.
+- Read from the instructor's [blog](http://www.speakcookitalian.blogspot.com/2012/02/lezione-numero-uno.html) entry for that week.
 - Complete the exercises and assignments for each lesson.
 - Cook a dish on their own and bring it to class
     - Students purchased their own ingredients

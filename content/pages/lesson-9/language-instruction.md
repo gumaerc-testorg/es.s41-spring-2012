@@ -23,13 +23,13 @@ Watch a video clip:
 
 Watch a YouTube video featuring a famous Italian song about coffee:
 
-"{{% resource_link "2c52ce44-9482-459e-9f49-278afdeecb5a" "Il Caffè Della Peppina" %}}." 13° Zecchino d'oro. October 8, 2009. YouTube. Accessed May 13, 2013.
+"[Il Caffè Della Peppina](http://www.youtube.com/watch?feature=player_embedded&v=nqzz3yzzN8c)." 13° Zecchino d'oro. October 8, 2009. YouTube. Accessed May 13, 2013.
 
 ## Special Guest
 
-*Un ospite speciale*/A special guest: {{% resource_link "6bb4772c-4c71-4fd9-af89-9c4fd30390fa" "Fiorenzo Omenetto" %}}, *Professore di Ingegneria Biomedica a Tufts*.
+*Un ospite speciale*/A special guest: [Fiorenzo Omenetto](http://ase.tufts.edu/biomedical/unolab/home.html), *Professore di Ingegneria Biomedica a Tufts*.
 
-See {{% resource_link "dd1b0462-3a23-4dcb-8be5-de9d4d54c24e" "Professor Omenetto's TED Talk on Silk: The Ancient Material of the Future" %}}.
+See [Professor Omenetto's TED Talk on Silk: The Ancient Material of the Future](https://www.ted.com/talks/fiorenzo_omenetto_silk_the_ancient_material_of_the_future?language=en).
 
 Let's refresh some *vocabolario*!
 
@@ -49,12 +49,12 @@ Let's refresh some *vocabolario*!
 
 {{< resource uuid="ab951a3b-4ad4-f406-f5f4-eb1738269ed3" >}}
 
-A photograph of the Italian coffee maker called *Bialetti, moka* or *caffettiera*. This is the way most Italians make coffee at home. (Image courtesy of {{% resource_link "cef7ef08-4bd6-4314-a9f4-8d728b7083df" "ispivey" %}} on flickr.)
+A photograph of the Italian coffee maker called *Bialetti, moka* or *caffettiera*. This is the way most Italians make coffee at home. (Image courtesy of [ispivey](http://www.flickr.com/photos/ispivey/196132880/) on flickr.)
 
 More songs about *caffè*:
 
-- {{% resource_link "f5cbe795-218f-4168-87d2-5cbd05e387a3" "Fabrizio De Andrè—Don Raffaè" %}} (Live 1991). January 10, 2009. YouTube. Accessed May 13, 2013.
-- {{% resource_link "7efaff69-1b9d-43b7-b6a0-395de0c656d7" "Zecchino d'oro—Ninna del Chicco del Caffè" %}}. September 14, 2009. YouTube. Accessed May 13, 2013.
+- [Fabrizio De Andrè—Don Raffaè](http://www.youtube.com/watch?v=tVxcBsMqMVw) (Live 1991). January 10, 2009. YouTube. Accessed May 13, 2013.
+- [Zecchino d'oro—Ninna del Chicco del Caffè](http://www.youtube.com/watch?v=iXWIwo0wI3g). September 14, 2009. YouTube. Accessed May 13, 2013.
 
 ## *Compiti*/Assignments
 
